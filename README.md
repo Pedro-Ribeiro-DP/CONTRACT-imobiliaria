@@ -1,5 +1,5 @@
 # CONTRATO DE TRATAMENTO DE DADOS PESSOAIS (MODELO BASE)
-Entre XYZ Ltda. (Controladora) e [Nome do Operador] (Operador de Dados)
+Trata-se de modelo de contrato de tratamento de dados pessoais entre os indivíduos fictícios: XYZ Ltda. (Controladora) e [Nome do Operador] (Operador de Dados).
 
 ## CLÁUSULA 1 – DAS PARTES
 Este contrato é firmado entre as seguintes partes:
